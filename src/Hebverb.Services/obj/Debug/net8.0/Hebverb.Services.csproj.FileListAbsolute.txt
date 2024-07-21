@@ -1,0 +1,12 @@
+D:\Repositories\hebverb-api\src\Hebverb.Services\bin\Debug\net8.0\Hebverb.Services.deps.json
+D:\Repositories\hebverb-api\src\Hebverb.Services\bin\Debug\net8.0\Hebverb.Services.dll
+D:\Repositories\hebverb-api\src\Hebverb.Services\bin\Debug\net8.0\Hebverb.Services.pdb
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\Hebverb.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\Hebverb.Services.AssemblyInfoInputs.cache
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\Hebverb.Services.AssemblyInfo.cs
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\Hebverb.Services.csproj.CoreCompileInputs.cache
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\Hebverb.Services.sourcelink.json
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\Hebverb.Services.dll
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\refint\Hebverb.Services.dll
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\Hebverb.Services.pdb
+D:\Repositories\hebverb-api\src\Hebverb.Services\obj\Debug\net8.0\ref\Hebverb.Services.dll
