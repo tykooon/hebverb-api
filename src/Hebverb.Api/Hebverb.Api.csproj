@@ -19,4 +19,8 @@
     <ProjectReference Include="..\Hebverb.Services\Hebverb.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
 </Project>

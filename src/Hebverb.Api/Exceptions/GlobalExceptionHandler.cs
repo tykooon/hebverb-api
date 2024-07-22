@@ -1,4 +1,4 @@
-﻿using Hebverb.Api.Model;
+﻿using Hebverb.Api.Models;
 using Hebverb.Services;
 using Microsoft.AspNetCore.Diagnostics;
 using System.Net;

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace Hebverb.Api.Model;
+namespace Hebverb.Api.Models;
 
 public class ErrorDetails
 {

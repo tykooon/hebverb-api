@@ -3,6 +3,8 @@ using Hebverb.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddControllers();
+
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -22,10 +24,12 @@ if (app.Environment.IsDevelopment())
 app.UseExceptionHandler(opt => { });
 app.UseHttpsRedirection();
 
+app.MapControllers();
+
 app.MapGet("/api/info", () => Results.Ok(new {
     version = "0.1",
     title = "HebVerb API",
-    error = "323"[4]
+    //error = "323"[4]
 }));
 
 app.Run();
